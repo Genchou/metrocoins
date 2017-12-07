@@ -1,4 +1,4 @@
-# Idées pour un scrapping / NLP analyse du topic des métrocanards (https://forum.canardpc.com/threads/116608-M%C3%A9trocanards-VI-Sapes-soins-rasage)
+# Idées pour un scrapping / NLP du [topic des métrocanards](https://forum.canardpc.com/threads/116608-M%C3%A9trocanards-VI-Sapes-soins-rasage)
 
 ## Simple parsing des occurences de mots avec "nuage"
 
